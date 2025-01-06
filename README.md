@@ -1,7 +1,7 @@
-# Recipe-Manager
+# Recipe-Management-System
 
 ## Project Description
-The **Recipe Manager** is a C console application that reads, writes, and processes recipes stored in a text file (`recipes.txt`). It allows users to manage and search recipes by various criteria, demonstrating file I/O, menu-driven programming, and function pointers.
+The **Recipe Management System** is a C console application that reads, writes, and processes recipes stored in a text file (`recipes.txt`). It allows users to manage and search recipes by various criteria, demonstrating file I/O, menu-driven programming, and function pointers.
 
 ---
 
